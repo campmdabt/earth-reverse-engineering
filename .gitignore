@@ -62,3 +62,6 @@ typings/
 
 # other
 downloaded_files/
+
+# python
+__pycache__/
