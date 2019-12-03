@@ -65,3 +65,13 @@ downloaded_files/
 
 # python
 __pycache__/
+
+client/main
+*.exe
+*.dll
+*.idb
+*.pdb
+*.dSYM
+*.pb.h
+*.pb.cc
+client/cache
